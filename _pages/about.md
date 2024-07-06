@@ -6,6 +6,40 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About Me
+Result-driven expert specializing in Machine Learning and AI to tackle challenging problems.
+
+
+## Education
+- Ph.D. in Electronic Engineering & Computer Science, University of California, Merced, May 2024
+- Bachelor of Engineering in Composite Material Science & Engineering, Nanjing Tech University, June 2013
+
+## Skills
+- **Programming Languages:** Python (proficient), C/C++, Java, Swift
+- **Technologies & Tools:** Docker, Kubernetes, AWS, SQL
+- **Machine Learning & AI:** TensorFlow, Keras, PyTorch, Computer Vision, NLP, Reinforcement Learning
+- **Other:** Algorithm Design, MATLAB, Arduino, Model Fine-tuning, Distillation
+
+## Work Experience
+### Research Assistant, University of California, Merced
+- Led research defending against adversarial attacks on deep learning models.
+- Developed 50+ novel models in Python, outperforming state-of-the-art methods by 32%.
+- Co-authored 4 publications in top conferences.
+
+### Teaching Assistant, University of California, Merced
+- Enhanced student engagement and retention in Object-Oriented Programming.
+- Led labs for 200+ students, increasing teaching effectiveness rate to 93.5%.
+
+### Instructor, Digital Media Academy
+- Developed and delivered advanced ML projects to 150+ students, achieving a 96% satisfaction rate.
+
+## Conference & Publications
+- Presented research at top conferences including ICMVA and IROS.
+- Published papers on defending against adversarial attacks and active learning of reward dynamics.
+
+---
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
