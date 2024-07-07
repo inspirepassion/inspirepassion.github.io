@@ -61,18 +61,69 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+
+$body-color                 : #e8d5b7;
+//$body-color                 : #e8d5b7 !default;
+//$body-color                 : #fff;
+//$background-color           : #fff;
+//$code-background-color      : #fafafa;
+//$code-background-color-dark : $light-gray;
+//$text-color                 : $dark-gray;
+//$border-color               : $lighter-gray;
+
+//$primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
+
+/* ==========================================================================
+   Sunrise skin
+   ========================================================================== */
+
+/* Colors */
+$dark-gray: #0e2431 !default;
+$background-color: #e8d5b7 !default;
+$text-color: #000 !default;
+$muted-text-color: $dark-gray !default;
+$primary-color: #fc3a52 !default;
+$border-color: mix(#000, $background-color, 20%) !default;
+$code-background-color: mix(#fff, $background-color, 20%) !default;
+//$code-background-color: mix(#000, $background-color, 20%) !default;
+$code-background-color-dark: mix(#000, $background-color, 10%) !default;
+$form-background-color: mix(#fff, $background-color, 15%) !default;
+//$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: #f9b248 !default;
+
+
+
+
+//$masthead-link-color: $text-color !default;
+//$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+
+//$masthead-link-color        : $primary-color !default;
+//$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+/* sunrise syntax highlighting (base16) */
+//$base00: #1d1f21 !default;
+//$base01: #282a2e !default;
+//$base02: #373b41 !default;
+//$base03: #969896 !default;
+//$base04: #b4b7b4 !default;
+//$base05: #c5c8c6 !default;
+//$base06: #e0e0e0 !default;
+//$base07: #ffffff !default;
+//$base08: #cc6666 !default;
+//$base09: #de935f !default;
+//$base0a: #f0c674 !default;
+//$base0b: #b5bd68 !default;
+//$base0c: #8abeb7 !default;
+//$base0d: #81a2be !default;
+//$base0e: #b294bb !default;
+//$base0f: #a3685a !default;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,11 +153,18 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+//$link-color                 : $info-color;
+//$link-color-hover           : mix(#000, $link-color, 25%);
+//$link-color-visited         : mix(#fff, $link-color, 25%);
+
+$link-color: mix(#000, $primary-color, 10%) !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
 
 
 /*
