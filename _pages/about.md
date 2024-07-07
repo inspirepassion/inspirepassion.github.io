@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Result-driven expert specializing in Machine Learning and AI to tackle challenging problems.
+In May, 2024, Zhixun defended his Ph.D. dissertation "Defense Frameworks Against Adversarial Attacks on Deep Learning Models". During his graduate study at [University of California, Merced](https://eecs.ucmerced.edu/content/zhixun-he), Zhixun was supervised by Professor [Mukesh Singhal](https://cloudlab.ucmerced.edu/people/~mukesh). 
+
+Zhixun currently is open for work, and he is a result-driven expert specializing in Machine Learning and AI to tackle challenging problems.Please feel free to contact for career opportunities and collaborations.
 
 
 ## Education
