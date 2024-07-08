@@ -26,7 +26,7 @@ redirect_from:
 
 [//]: # (website: Link to an external website.)
 
-
+<a href="/files/CV-23.2-Zhixun He.pdf" style="font-size: 18px;">CV pdf download</a>&nbsp;&nbsp;
 
 
 ## Skills
@@ -69,8 +69,7 @@ Reconstruct Clean Images__", 3rd International Conference on Pattern Recognition
 __Z. He__, M. Singhal, "__Adversarial Defense Through High-Frequency Loss Variational Autoencoder Decoder and
 Bayesian Update With Collective Voting__", 17th International Conference on Machine Vision Applications, __Jun. 2021__.
 
-C. Basu, E. Biyik, __Z. He__, M. Singhal, and D. Sadigh, “__Active Learning of Reward Dynamics from Hierarchical
-Queries__”, Proceedings of the IEEE International Conference on Intelligent Robots and Systems (__IROS__), __Nov. 2019__.
+C. Basu, E. Biyik, __Z. He__, M. Singhal, and D. Sadigh, “__Active Learning of Reward Dynamics from Hierarchical Queries__”, Proceedings of the IEEE International Conference on Intelligent Robots and Systems (__IROS__), __Nov. 2019__.
   
 
 ## Award & Fellowship
@@ -86,3 +85,9 @@ Chair, Student Fee Advisory Committee (SFAC), UCMerced, 2021 - 2023
 Delegate Assembly, Graduate Student Association (GSA), UCMerced, 2018
 
 International Affair Officer, Graduate Student Association (GSA), UCMerced, 2016
+
+## Reference (contact upon request)
+
+Mukesh Singhal, Professor at University of California, Merced and IEEE Fellow 
+
+Yan Li, VP of Engineering at Western Digital 
