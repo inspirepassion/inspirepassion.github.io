@@ -75,6 +75,7 @@ Queries__”, Proceedings of the IEEE International Conference on Intelligent Ro
 
 ## Award & Fellowship
 Bob Cat Fellowship - 6 times of scholarship for summer research from the EECS department. (2017 - 2023)
+
 Distinguished Fellowship−6 times of scholarship from NTU for outstanding academic performance. (2009 - 2013)
 
   

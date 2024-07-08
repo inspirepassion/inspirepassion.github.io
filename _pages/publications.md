@@ -18,11 +18,6 @@ author_profile: true
         <img src="/images/paper/paper_3.jpg" alt="Image Alt Text">
     </div>
     <div class="column">
-        <style>
-        .column p {
-            margin-bottom: -10px; /* Adjust the margin bottom as per your preference */
-        }
-        </style>
         <p>**VQUNet: Vector Quantization U-Net for Defending Adversarial Attacks by Regularizing Unwanted Noise**</p>
         <p>*Zhixun He*, Mukesh Singhal </p>
         <p>You can add multiple paragraphs or other content here.</p>
