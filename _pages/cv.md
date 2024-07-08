@@ -26,7 +26,7 @@ redirect_from:
 
 [//]: # (website: Link to an external website.)
 
-<a href="/files/CV-23.2-Zhixun He.pdf" style="font-size: 18px;">CV pdf download</a>&nbsp;&nbsp;
+<a href="/files/CV-23.2-web-Zhixun-He.pdf" style="font-size: 18px;">CV pdf download</a>&nbsp;&nbsp;
 
 
 ## Skills
