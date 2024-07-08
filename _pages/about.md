@@ -9,7 +9,7 @@ redirect_from:
 ## About Me
 In May, 2024, Zhixun defended his Ph.D. dissertation "Defense Frameworks Against Adversarial Attacks on Deep Learning Models". During his graduate study at [University of California, Merced](https://eecs.ucmerced.edu/content/zhixun-he), Zhixun was supervised by Professor [Mukesh Singhal](https://cloudlab.ucmerced.edu/people/~mukesh). 
 
-Zhixun currently is open for work, and he is a result-driven expert specializing in Machine Learning and AI to tackle challenging problems.Please feel free to contact for career opportunities and collaborations.
+Zhixun currently is open for work, and he is a result-driven engineer and researcher specializing in Machine Learning and AI to tackle challenging problems. Please feel free to contact for career opportunities and collaborations.
 
 
 ## Education
@@ -22,8 +22,8 @@ Zhixun currently is open for work, and he is a result-driven expert specializing
 - **Machine Learning & AI:** TensorFlow, Keras, PyTorch, Computer Vision, NLP, Reinforcement Learning
 - **Other:** Algorithm Design, MATLAB, Arduino, Model Fine-tuning, Distillation
 
-## Work Experience
-### Research Assistant, University of California, Merced
+### Work Experience
+#### Research Assistant, University of California, Merced
 - Led research defending against adversarial attacks on deep learning models.
 - Developed 50+ novel models in Python, outperforming state-of-the-art methods by 32%.
 - Co-authored 4 publications in top conferences.
