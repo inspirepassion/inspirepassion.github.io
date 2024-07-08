@@ -14,4 +14,4 @@ Zhixun currently is open for work, and he is a result-driven engineer and resear
 ## News
 
 - 05/2024: Zhixun defended his Ph.D. dissertaion at EECS department, University of California, Merced.
-- 01/2024: "VQUNet: Vector Quantization U-Net for Defending Adversarial Attacks by Regularizing Unwanted Noise" is accepted by 7th International Conference on Machine Vision and Applications
+- 01/2024: "VQUNet: Vector Quantization U-Net for Defending Adversarial Attacks by Regularizing Unwanted Noise" is accepted by 7th International Conference on Machine Vision and Applications.
