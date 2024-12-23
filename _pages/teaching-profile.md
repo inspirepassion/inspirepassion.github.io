@@ -9,7 +9,7 @@ author_profile: true
   :root {
     --flex-left: 1;
     --flex-right: 15;
-    --left-column-ratio: 1.5fr;
+    --left-column-ratio: 2fr;
     --right-column-ratio: 10fr;
     --sub-column-ratio-1: 1fr;
     --sub-column-ratio-2: 2fr;
@@ -401,7 +401,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- TOEFL (list) -->
+<!-- GSR (list) -->
 
 <div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
 
@@ -519,10 +519,10 @@ author_profile: true
 
   <div>
     <ul style="padding-left: 1em; font-size: 16px;">
-      <li><strong>Z. He</strong>, M. Singhal, "<strong>VQUNet: Vector Quantization U-Net for Defending Adversarial Attacks by Regularizing Unwanted Noise</strong>", 7th International Conference on Machine Vision and Applications (<strong>ICMVA</strong>), Mar. 2024.</li>
-      <li><strong>Z. He</strong>, M. Singhal, "<strong>Defense-CycleGAN: A Defense Mechanism Against Adversarial Attacks Using CycleGAN to Reconstruct Clean Images</strong>", 3rd International Conference on Pattern Recognition and Machine Learning (<strong>PRML</strong>), Jul. 2022.</li>
-      <li><strong>Z. He</strong>, M. Singhal, "<strong>Adversarial Defense Through High-Frequency Loss Variational Autoencoder Decoder and Bayesian Update With Collective Voting</strong>", 17th International Conference on MachineVision Applications (<strong>MVA</strong>), Jun. 2021.</li>
-      <li>C. Basu, E. Biyik, <strong>Z. He</strong>, M. Singhal, and D. Sadigh, “<strong>Active Learning of Reward Dynamics from Hierarchical Queries</strong>”, Proceedings of the IEEE International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), Nov. 2019.</li>
+      <li><strong>Zhixun He He</strong>, Mukesh Singhal, "<strong>VQUNet: Vector Quantization U-Net for Defending Adversarial Attacks by Regularizing Unwanted Noise</strong>", 7th International Conference on Machine Vision and Applications (<strong>ICMVA</strong>), Mar. 2024.</li>
+      <li><strong>Zhixun He</strong>, Mukesh Singhal, "<strong>Defense-CycleGAN: A Defense Mechanism Against Adversarial Attacks Using CycleGAN to Reconstruct Clean Images</strong>", 3rd International Conference on Pattern Recognition and Machine Learning (<strong>PRML</strong>), Jul. 2022.</li>
+      <li><strong>Zhixun He</strong>, Mukesh Singhal, "<strong>Adversarial Defense Through High-Frequency Loss Variational Autoencoder Decoder and Bayesian Update With Collective Voting</strong>", 17th International Conference on MachineVision Applications (<strong>MVA</strong>), Jun. 2021.</li>
+      <li>Chandrayee Basu, Erdem Biyik, <strong>Zhixun He</strong>, Mukesh Singhal, and Dorsa Sadigh, “<strong>Active Learning of Reward Dynamics from Hierarchical Queries</strong>”, Proceedings of the IEEE International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), Nov. 2019.</li>
     </ul>
   </div>
 </div>
@@ -555,6 +555,361 @@ author_profile: true
       <li>Conference: "Adversarial Defense Through High-Frequency Loss Variational Autoencoder Decoder and Bayesian Update With Collective Voting", 17th International Conference on Machine Vision Applications (MVA), <strong>June 2021</strong>.</li>
       <!-- 1 -->
       <li>Contributed talk: "The Robustness of Machine Learning Algorithms under Adversarial Attacks", Computer Science 4 Me (CS4Me), UC Merced, <strong>March 2020</strong>.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- leadership and service experience -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>LEADERSHIP & SERVICE EXPERIENCE</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Chair</strong></p>
+      <p>Student Fee Advisory Committee (SFAC), UC Merced</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Aug. 2021 - May 2023</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- chair (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Facilitated meetings, set agendas, outreach, staff recruitment, cross-team collaboration, and advocating for student interests.</li>
+      <li>Reviewed and evaluated student fee policy, budget, and programs and reported to the Vice Chancellor and business office.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- secretary -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Secretary</strong></p>
+      <p>Student Fee Advisory Committee (SFAC), UC Merced</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Aug. 2020 - May 2021</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- secretary (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Meeting coordination, minute-tracking, document management, agenda preparation, archiving, and committee support.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Grad Student Representation -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Grad Student Representation</strong></p>
+      <p>Student Fee Advisory Committee (SFAC), UC Merced</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Aug. 2017 - May 2020</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- Grad Student Representation (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Student feedback collection, advocating student body’s interests, liaison between students and university departments.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Delegate Assembly, EECS -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Delegate Assembly, EECS</strong></p>
+      <p>Graduate Student Association (GSA), UC Merced</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Aug. 2017 - Aug 2018</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- Delegate Assembly, EECS (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Advocacy for students, event organizing, collaboration with university administration, communication, and policy review.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- International Affairs Officer -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>International Affairs Officer</strong></p>
+      <p>Graduate Student Association (GSA), UC Merced</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Aug. 2016 - Aug 2017</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- International Affairs Officer -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Advocacy for international students, policy review, community building/networking, support service, and cultural awareness.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Grad Student Representation, Coordinating Committee on Graduate Affairs -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Grad Student Representation, Coordinating Committee on Graduate Affairs</strong></p>
+      <p>UC Office of the President</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Jan. 2016 - Aug 2017</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- Grad Student Representation, Coordinating Committee on Graduate Affairs -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Participated in decision-making meetings happening in UC system, provided inputs to administration, and reviewed policies.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Chief of Staff -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Chief of Staff</strong></p>
+      <p>GSA External Vice President Advisory Board</p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>Jan. 2016 - Aug 2016</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- Chief of Staff -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Organizational coordination, strategic support, communication, team management, report drafting, and offered advice.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Technical Skills (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>TECHNICAL SKILLS</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <!-- 1 -->
+      <li>Languages: Python, Swift, C++, Java</li>
+      <!-- 2 -->
+      <li>Machine Learning Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV</li>
+      <!-- 3 -->
+      <li>ML/AI: Computer Vision (CV), Natural Language Processing (NLP), Reinforcement Learning (RL), Adversarial Attacks/Defense, Bayesian Inference, Deep Learning, Transfer Learning, Distillation, Model Fine-tuning</li>
+      <!-- 4 -->
+      <li>Development: Linux, Bash, IOS, WatchOS, Data Structure, Algorithm Design</li>
+      <!-- 5 -->
+      <li>DevOps: Docker, Kubernetes (K8s), Github, Gitlab</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+
+<!-- Awards and honors (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>AWARDS AND HONORS</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <!-- 1 -->
+      <li>Grad Excel Peer Mentor Award, <strong>UC Merced (2019)</strong>.</li>
+      <!-- 2 -->
+      <li>EECS Bobcat Summer Fellowship, <strong>UC Merced (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023)</strong>.</li>
+      <!-- 3 -->
+      <li>Student Fee Advisory Committee Fellowship, <strong>UC Merced (2018, 2019, 2020, 2021, 2022)</strong>.</li>
+      <!-- 4 -->
+      <li>Graduate Orientation Week International Student Support Fellowship, <strong>UC Merced (2016)</strong>.</li>
+      <!-- 5 -->
+      <li>Academic Merit Scholarship, <strong>Nanjing Tech University (2010, 2011, 2012, 2013)</strong>.</li>
     </ul>
   </div>
 </div>
