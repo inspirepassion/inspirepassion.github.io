@@ -66,7 +66,7 @@ author_profile: true
       <p style="margin: 0;"><strong>Ph.D. (2024)</strong> Electrical Engineering and Computer Science (GPA: 3.8/4.0)</p>
       <p style="margin: 0;"><strong>University of California, Merced</strong></p>
       <p style="margin: 0;"><em>&#8203;</em></p>
-      <p style="margin: 0;"><strong>B.E. (2013)</strong> Composite Material Science and Engineering (GPA: 3.8/4.0)</p>
+      <p style="margin: 0;"><strong>B.S. (2013)</strong> Composite Material Science and Engineering (GPA: 3.8/4.0)</p>
       <p style="margin: 0;"><strong>Nanjing Tech University</strong></p>
     </div>
     <!-- Sub-column 2 -->
@@ -85,6 +85,79 @@ author_profile: true
 </div>
 
 ---
+
+<!-- Research Interest -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>RESEARCH INTEREST</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Computer Vision</li>
+      <li>Natural Language Processing</li>
+      <li>LLM</li>
+      <li>Model Interpretability and Generalization</li>
+      <li>Reinforcement Learning and Decision-Making</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Teaching Interest -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>TEACHING INTEREST</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Probability and Statistics for Machine Learning</li>
+      <li>Computer Vision</li>
+      <li>Natural Language Processing</li>
+      <li>Algorithms and Data Structures</li>
+      <li>Theory of Computation</li>
+      <li>Optimization for Machine Learning</li>
+      <li>Cybersecurity and Secure AI</li>
+      <li>Database Systems and Big Data Analytics</li>
+      <li>Artificial Intelligence</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Technical Skills (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>TECHNICAL SKILLS</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <!-- 1 -->
+      <li>Languages: Python, Swift, C++, Java</li>
+      <!-- 2 -->
+      <li>Machine Learning Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV</li>
+      <!-- 3 -->
+      <li>ML/AI: Computer Vision (CV), Natural Language Processing (NLP), Reinforcement Learning (RL), Adversarial Attacks/Defense, Bayesian Inference, Deep Learning, Transfer Learning, Distillation, Model Fine-tuning</li>
+      <!-- 4 -->
+      <li>Development: Linux, Bash, IOS, WatchOS, Data Structure, Algorithm Design</li>
+      <!-- 5 -->
+      <li>DevOps: Docker, Kubernetes (K8s), Github, Gitlab</li>
+    </ul>
+  </div>
+</div>
+
+---
+
 <!-- Digital Media Academy -->
 
 <div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
@@ -235,97 +308,7 @@ author_profile: true
   </div>
 </div>
 
----
 
-<!-- Private Tutor -->
-
-<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
-
-  <div>
-    <p style="margin: 0;"><strong>&#8203;</strong></p>
-  </div>
-
-  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
-    <!-- Sub-column 1 -->
-    <div>
-      <p><strong>Private Teacher</strong> | English Reading</p>
-      <p>Self-employed</p>
-    </div>
-    <!-- Sub-column 2 -->
-    <div>
-      <p><em></em></p>
-    </div>
-    <!-- Sub-column 3 -->
-    <div style="text-align: right;">
-      <p style="margin: 0;"><strong>Oct. 2014 - Apr. 2015</strong></p>
-      <p style="margin: 0;">Guangxi, China</p>
-    </div>
-  </div>
-</div>
-
-<!-- Private Tutor (list) -->
-
-<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
-
-  <div>
-    <p style="margin: 0;"><strong>&#8203;</strong></p>
-  </div>
-
-  <div>
-    <ul style="padding-left: 1em; font-size: 16px;">
-      <li>Course Info: one-to-one in-person teaching, 6 students over the period, 4 hrs/w per student.</li>
-      <li>Developed and implemented a groundbreaking framework that categorizes 95% of English sentences into five simplified formulas, demystifying sentence structures for learners of all ages, challenging traditional national English teaching curriculum. These efforts helped one student improve their score on the China College Entrance Exam from 52/150 to 112/150 (a 115% increase) within 6 months.</li>
-      <li>Designed a unified curriculum applicable to both middle and high school students, proving that foundational language skills transcend age barriers. Enabled middle school students to decode high school-level texts with a 100% comprehension rate.</li>
-      <li>Fostered a growth mindset in students typically labeled as low-achievers, demonstrating that strategic instruction can unlock potential.</li>
-    </ul>
-  </div>
-</div>
-
----
-
-<!-- TOEFL -->
-
-<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
-
-  <div>
-    <p style="margin: 0;"><strong>&#8203;</strong></p>
-  </div>
-
-  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
-    <!-- Sub-column 1 -->
-    <div>
-      <p><strong>TOEFL Instructor</strong> | Reading, Writing, Speaking, Listening</p>
-      <p>Woodpecker International Education Corporate</p>
-    </div>
-    <!-- Sub-column 2 -->
-    <div>
-      <p><em></em></p>
-    </div>
-    <!-- Sub-column 3 -->
-    <div style="text-align: right;">
-      <p style="margin: 0;"><strong>Jan. 2014 - Aug. 2014</strong></p>
-      <p style="margin: 0;">Nanjing, China</p>
-    </div>
-  </div>
-</div>
-
-<!-- TOEFL (list) -->
-
-<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
-
-  <div>
-    <p style="margin: 0;"><strong>&#8203;</strong></p>
-  </div>
-
-  <div>
-    <ul style="padding-left: 1em; font-size: 16px;">
-      <li>Course Info: one-to-one and one-to-many in-person teaching , 5 students over the period, 3 hrs/w per student.</li>
-      <li>Tailored one-on-one instruction, course materials, and quizzes for each student’s background to prepare students for overseas studies.</li>
-      <li>Designed personalized study roadmaps and timelines, aligning with students' academic goals and target institutions. Facilitated ongoing communication with families to track progress and address concerns. Guided students through the oversea college application process.</li>
-      <li>Helped all 5 students secure admission to top-ranked U.S. institutions.</li>
-    </ul>
-  </div>
-</div>
 
 ---
 
@@ -862,33 +845,6 @@ author_profile: true
 </div>
 
 ---
-
-<!-- Technical Skills (list) -->
-
-<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
-
-  <div>
-    <p style="margin: 0;"><strong>TECHNICAL SKILLS</strong></p>
-  </div>
-
-  <div>
-    <ul style="padding-left: 1em; font-size: 16px;">
-      <!-- 1 -->
-      <li>Languages: Python, Swift, C++, Java</li>
-      <!-- 2 -->
-      <li>Machine Learning Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV</li>
-      <!-- 3 -->
-      <li>ML/AI: Computer Vision (CV), Natural Language Processing (NLP), Reinforcement Learning (RL), Adversarial Attacks/Defense, Bayesian Inference, Deep Learning, Transfer Learning, Distillation, Model Fine-tuning</li>
-      <!-- 4 -->
-      <li>Development: Linux, Bash, IOS, WatchOS, Data Structure, Algorithm Design</li>
-      <!-- 5 -->
-      <li>DevOps: Docker, Kubernetes (K8s), Github, Gitlab</li>
-    </ul>
-  </div>
-</div>
-
----
-
 
 <!-- Awards and honors (list) -->
 
