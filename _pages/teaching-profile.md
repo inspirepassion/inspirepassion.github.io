@@ -143,7 +143,7 @@ author_profile: true
   <div>
     <ul style="padding-left: 1em; font-size: 16px;">
       <!-- 1 -->
-      <li>Languages: Python, Swift, C++, Java</li>
+      <li>Languages: Python (9 years), Swift (2 years), C++ (2 years), Java, SQL, JavaScript</li>
       <!-- 2 -->
       <li>Machine Learning Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV</li>
       <!-- 3 -->
@@ -866,6 +866,53 @@ author_profile: true
       <li>Graduate Orientation Week International Student Support Fellowship, <strong>UC Merced (2016)</strong>.</li>
       <!-- 5 -->
       <li>Academic Merit Scholarship, <strong>Nanjing Tech University (2010, 2011, 2012, 2013)</strong>.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<!-- Development -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>DEVELOPMENT EXPERIENCE</strong></p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 15fr 0.1fr 5fr; gap: var(--gap-size);">
+    <!-- Sub-column 1 -->
+    <div>
+      <p><strong>Tennis Match Management, Analyzer, Metrics Tracker(WatchOS & IOS)</strong></p>
+      <p></p>
+    </div>
+    <!-- Sub-column 2 -->
+    <div>
+      <p><em></em></p>
+    </div>
+    <!-- Sub-column 3 -->
+    <div style="text-align: right;">
+      <p style="margin: 0;"><strong>June 2024 - Present</strong></p>
+      <p style="margin: 0;">Merced, CA</p>
+    </div>
+  </div>
+</div>
+
+<!-- GSR (list) -->
+
+<div style="display: grid; grid-template-columns: var(--left-column-ratio) var(--right-column-ratio); gap: var(--gap-size);">
+
+  <div>
+    <p style="margin: 0;"><strong>&#8203;</strong></p>
+  </div>
+
+  <div>
+    <ul style="padding-left: 1em; font-size: 16px;">
+      <li>Designed UX/UI using SwiftUI and UIKit, aligning with industry standards for wearable device interfaces, achieving significant ease of use, reducing finger gesture error by <strong>34%</strong>, minimizing user memory recall mistake by <strong>65%</strong> via intuitive workflows, enhancing finger gesture error tolerance by <strong>46%</strong> with predictive input fields, and reducing data input time by <strong>23%</strong> with intuitive shape and color information.</li>
+      <li>Using data collected from the Apple Watch, developed an app that provides <strong>100+</strong> professional performance metrics for the player, allowing the user to compare these metrics between <strong>45</strong> different modes and moments. Developed extension-based protocol conformance to enable reuse, clean separation of concerns, and extension for health data and future computer vision analysis data.</li>
+      <li>Developed modular, reusable, and scalable APIs using Swift, such as health manager, storage manager, data visualization utilities, device connection manager, data models, and data provider/analyzers. Improved UI responsiveness and reduced unnecessary recomputation during state changes through custom caching. Maintained a well-documented, scalable, and maintainable codebase for extension and collaboration.</li>
+      <li>Engineered a data pipeline for syncing data between IOS devices and a Python-based Docker server. Developed a web frontend for data visualization using Flask and Python. Architected microservices for high concurrency and reliability using Docker. Utilized MySQL for efficient storage and retrieval of match metrics in Python. Managed backend development pipelines with GitLab CI/CD.</li>
+      <li>Proficient at using AI tools (e.g., ChatGPT) to accelerate debugging, architecture exploration, and prototype iteration.</li>
     </ul>
   </div>
 </div>
