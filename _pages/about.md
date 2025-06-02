@@ -13,6 +13,9 @@ Zhixun currently is open for work, and he is a result-driven engineer and resear
 
 ## News
 
+- 05/2025: Tennisology App is available on the App Store now. 
+  - App Store [link](https://apps.apple.com/us/app/tennisology/id6746260435)
+  - Instagram [page](https://www.instagram.com/tennisology.app?igsh=NTc4MTIwNjQ2YQ==)
 - 06/2024: Started IOS App development. 
 - 05/2024: Zhixun defended his Ph.D. dissertaion at EECS department, University of California, Merced.
 - 01/2024: "VQUNet: Vector Quantization U-Net for Defending Adversarial Attacks by Regularizing Unwanted Noise" is accepted by 7th International Conference on Machine Vision and Applications.
